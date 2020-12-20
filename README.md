@@ -9,7 +9,7 @@ Among the city types (urban, suburban, rural), urban cities had the most riders.
 \
 !["Fig2"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig2.png)
 \
-Contrarily, rural cities had the least riders. On average, about 6 riders called Pyber for services. Nine riders represented up to 75% of all riders. This means the urban market was about 3x larger in urban areas than rural areas. Pyber also attracted about 4x the number of riders, on average, in urban versus rural cities.
+Contrarily, rural cities had the least riders. On average, about 6 riders called Pyber for services. Nine riders represented up to 75% of all riders. This means the urban market was about 3x larger in urban areas than rural areas. Pyber also attracted about 4x the average number of riders in urban versus rural cities.
 \
 \
 **Average Fares by Total Number of Riders**
