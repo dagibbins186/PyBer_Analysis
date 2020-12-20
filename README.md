@@ -14,7 +14,7 @@ Contrarily, rural cities had the least riders. On average, about 6 riders called
 \
 **Average Fares by Total Number of Riders**
 \
-The total number of rides per city was higher in urban areas than suburban and rural areas. However, the average fare was also lower among urban rides. Rural areas charged the most. In rural areas, the average fare was $34.62 versus $24.62. Suburban fares were $30.97 on average.
+The total number of rides per city was higher in urban areas than suburban and rural areas. However, the average fare ($24.62) was also lower among urban rides than the other areas. Rural areas charged the most ($34.62). Suburban fares were in the middle; $30.97 on average.
 \
 !["Fig1"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig1.jpg)
 \
