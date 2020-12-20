@@ -46,7 +46,7 @@ Consistently, rural cities had the least total fares and urban cities the most t
 !["Fig8"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig8.png)
 \
 For example, all cities saw a major dip in total fares during the month of April. February consistly yieled the highest total fares among all months.
-\
+
 
 # Summary
 There were more riders in urban areas and suburban cities areas than rural areas. The average fare was also lower in urban cities than suburban and rural cities. An inverse relationship appeared between quantity and price. Given 81% of drivers worked in the urban areas, it seemed slightly disproportional for only 64% of fares to come from urban areas. This might suggest the area is over-saturated. Nevertheless, the urban cities remained the highest grossing city type-no matter the month or time of year. More analysis of profitablity, should consider driver costs relative to total fares/revenue.
