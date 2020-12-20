@@ -14,11 +14,11 @@ Contrarily, rural cities had the least riders. On average, about 6 riders called
 \
 **Average Fares by Total Number of Riders**
 \
-The total number of rides per city was higher in urban areas than suburban and rural areas. However, the average fare ($24.62) was also lower among urban rides than the other areas. Rural areas charged the most ($34.62). Suburban fares were in the middle; $30.97 on average.
+The total number of rides per city was higher in urban areas than suburban and rural areas. However, the average fare ($24.62) for urban rides was also lower. Rural areas charged the most ($34.62). Suburban fares were in the middle; $30.97 on average.
 \
 !["Fig1"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig1.jpg)
 \
-The suburban market also showed promise because 75% of rides charged fares up to $39.83. In urban markets, 75% of rides were under $34.48. There were also nearly double the number of drivers providing these rides in urban than suburban areas; 52 drivers versus 21 drivers respectfully. Since PyBer charged more, paid half the number of drivers, and met a steady demand for drives: the suburban market appeared quite profitable.
+The suburban market showed some promise because 75% of rides charged fares up to $39.83. In urban markets, 75% of rides were under $34.48. There were also nearly double the number of drivers providing these rides in the urban cities than suburban cities (52 drivers versus 21 drivers respectfully). In the suburbs, PyBer charged more, paid half the number of drivers, and met a steady demand for rides; relative to urban cities.
 \
 \
 **Percent of Total Fares by City Type**
@@ -32,11 +32,11 @@ Rural areas produced a fraction of the fares (6.8%). Pyber earned higher, averag
 \
 **Percent of Total Drivers by City Type**
 \
-Urban cities generated nearly 2/3 of Pyber's fares, and employed 81% of its drivers. It is possible that more fares came in because there were more drivers to provide rides. 
+Urban cities generated nearly 2/3 of Pyber's fares, and employed 81% of its drivers. It is possible that more fares came in because more drivers were available to provide rides. 
 \
 !["Fig7"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig7.png)
 \
-There is an inverse relationship between the price of fares and the quantity of rides. Since urban areas had more drivers, more rides were available. The quantity of drivers supported lower fares in urban areas.
+An inverse relationship existed between the price of fares and the quantity of rides. Since urban areas had more drivers, more rides were available. The quantity of drivers supported lower fares in urban areas.
 \
 \
 **Total Fares by City Type Over Time**
@@ -45,8 +45,8 @@ Consistently, rural cities had the least total fares and urban cities the most t
 \
 !["Fig8"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig8.png)
 \
-For example, all cities saw a major dip in total fares during the month of April. Fares were also consistently highest in February. 
+For example, all cities saw a major dip in total fares during the month of April. February consistly yieled the highest total fares among all months.
 \
 
 # Summary
-There were more riders in urban areas and suburban cities areas than rural areas. With more riders and drivers, the average fare was also lower in urban cities than suburban and rural cities. This confirmed basic economic principles: an inverse relationship between quantity and price. Given 81% of drivers work in urban areas, it seemed slightly low that only 64% of fares were coming from urban areas. This might suggest the area is over-saturated. Nevertheless, it remained the highest grossing City Type-no matter the month or time of year. More analysis of profitablity, which would consider driver costs relative to total fares/revenue is recommended.
+There were more riders in urban areas and suburban cities areas than rural areas. The average fare was also lower in urban cities than suburban and rural cities. An inverse relationship appeared between quantity and price. Given 81% of drivers worked in the urban areas, it seemed slightly disproportional for only 64% of fares to come from urban areas. This might suggest the area is over-saturated. Nevertheless, the urban cities remained the highest grossing city type-no matter the month or time of year. More analysis of profitablity, should consider driver costs relative to total fares/revenue.
