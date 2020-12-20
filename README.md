@@ -36,7 +36,7 @@ Urban cities generated nearly 2/3 of Pyber's fares, and employed 81% of its driv
 \
 !["Fig7"](https://github.com/dagibbins186/PyBer_Analysis/blob/main/PyBer_Analysis/analysis/Fig7.png)
 \
-An inverse relationship existed between the price of fares and the quantity of rides. Since urban areas had more drivers, more rides were available. The quantity of drivers supported lower fares in urban areas.
+An inverse relationship existed between the price of fares and the quantity of rides. The quantity of drivers supported lower fares in urban areas.
 \
 \
 **Total Fares by City Type Over Time**
